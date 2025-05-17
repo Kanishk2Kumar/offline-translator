@@ -1,0 +1,4 @@
+D:/ML/offline-translator/build/CMakeFiles/whisper.dir
+D:/ML/offline-translator/build/CMakeFiles/translator.dir
+D:/ML/offline-translator/build/CMakeFiles/ALL_BUILD.dir
+D:/ML/offline-translator/build/CMakeFiles/ZERO_CHECK.dir

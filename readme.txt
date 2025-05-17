@@ -1,0 +1,1 @@
+To start with, install whisper.cpp, portaudio and VB-Cable
